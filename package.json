@@ -1,0 +1,22 @@
+{
+  "name": "cursoasincronismojavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dany0343/CursoAsincronismoJavaScript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Oscar Bucio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dany0343/CursoAsincronismoJavaScript/issues"
+  },
+  "homepage": "https://github.com/Dany0343/CursoAsincronismoJavaScript#readme"
+}
